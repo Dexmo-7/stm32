@@ -1,1 +1,7 @@
+# If I want to ignore all file with specific extension I shall
+# type "*.specific_extension"
+
 PRIVATE.txt
+
+# If I want to exclude from the ignoring list one of file
+# I shall type "!name_of_excluded_file.specific_extension"
