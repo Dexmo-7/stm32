@@ -4,6 +4,7 @@
 PRIVATE.txt
 **/BRANDS/*.txt
 **/STATUS
+cwiczenia_z_gita/
 
 # If I want to exclude from the ignoring list one of file
 # I shall type "!name_of_excluded_file.specific_extension"
