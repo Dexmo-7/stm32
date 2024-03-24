@@ -1,2 +1,5 @@
-#ignore all txt files
-*.txt
+#ignore VOLVO.txt file
+VOLVO.txt
+
+#ignore PRIVATE.txt file
+PRIVATE.txt
