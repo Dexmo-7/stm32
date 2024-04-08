@@ -1,3 +1,0 @@
-example text for test2
-
-new text after the first commit.
